@@ -1,9 +1,9 @@
 # JsonRPC
-[![Hex.pm](https://img.shields.io/hexpm/v/json_rpc.svg?style=flat-square)](https://hex.pm/packages/json_rpc)
-![Hex.pm](https://img.shields.io/hexpm/dt/json_rpc?style=flat-square)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/json_rpc/CI?style=flat-square)
-![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/json_rpc?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Hex.pm: version](https://img.shields.io/hexpm/v/json_rpc.svg?style=flat-square)](https://hex.pm/packages/json_rpc)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/json_rpc?style=flat-square)](https://hex.pm/packages/json_rpc)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/json_rpc/CI?style=flat-square)](https://github.com/hrzndhrn/json_rpc/actions)
+[![Coveralls: coverage](https://img.shields.io/coveralls/github/hrzndhrn/json_rpc?style=flat-square)](https://coveralls.io/github/hrzndhrn/json_rpc)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/json_rpc/blob/main/LICENSE.md)
 
 An implementation of the [JSON RPC](https://www.jsonrpc.org/) protocol version 2.
 
